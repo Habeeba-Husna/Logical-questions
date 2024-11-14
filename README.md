@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0283-move-zeroes) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0066-plus-one) |
 | [3567-convert-date-to-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3568-find-the-key-of-the-numbers) |
 <!---LeetCode Topics End-->

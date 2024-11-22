@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0414-third-maximum-number) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1646-kth-missing-positive-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1646-kth-missing-positive-number) |
+| [1833-find-the-highest-altitude](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1833-find-the-highest-altitude) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2756-buy-two-chocolates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2756-buy-two-chocolates) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1646-kth-missing-positive-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1646-kth-missing-positive-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->

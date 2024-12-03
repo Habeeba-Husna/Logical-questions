@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
 | [3567-convert-date-to-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3567-convert-date-to-binary) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

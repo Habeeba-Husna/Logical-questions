@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0414-third-maximum-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0414-third-maximum-number) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0316-remove-duplicate-letters) |
 | [2756-buy-two-chocolates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2756-buy-two-chocolates) |
 ## Math

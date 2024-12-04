@@ -87,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0258-add-digits) |
 | [3567-convert-date-to-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3568-find-the-key-of-the-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0258-add-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0050-powx-n) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

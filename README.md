@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0742-to-lower-case) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
 | [3567-convert-date-to-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3568-find-the-key-of-the-numbers) |
 ## Simulation
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |

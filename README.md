@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0742-to-lower-case) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1264-maximum-number-of-words-you-can-type) |

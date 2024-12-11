@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0742-to-lower-case) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3567-convert-date-to-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3567-convert-date-to-binary) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Counting
 |  |

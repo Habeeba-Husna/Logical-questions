@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0414-third-maximum-number) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
 | [1646-kth-missing-positive-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1646-kth-missing-positive-number) |
 ## Prefix Sum
 |  |

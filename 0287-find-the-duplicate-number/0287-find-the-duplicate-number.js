@@ -12,9 +12,7 @@ var findDuplicate = function(nums) {
     let a= new Set();
     console.log(a)
     for(let num of nums){
-        if(a.has(num)){
-            return num
-        }
+        if(a.has(num)) return num
         a.add(num)
     }
     

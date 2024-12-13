@@ -15,8 +15,11 @@ var reverse = function(x) {
      console.log(reversed)
     //  if (reversed < -(2 ** 31) || reversed > 2 ** 31 - 1) {
     // return 0;
-    if(reversed> Math.pow(2, 31)-1 || reversed< Math.pow(-2, 31)) {
-        return 0;
-}
+    // if(reversed> Math.pow(2, 31)-1 || reversed< Math.pow(-2, 31)) {
+    //     return 0;
+        if(reversed<-2147483648||reversed> 2147483647){
+            return 0
+        }
+
 return reversed;
 };

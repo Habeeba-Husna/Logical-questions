@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1646-kth-missing-positive-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1646-kth-missing-positive-number) |
 | [1833-find-the-highest-altitude](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1833-find-the-highest-altitude) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2756-buy-two-chocolates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2756-buy-two-chocolates) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0414-third-maximum-number) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2756-buy-two-chocolates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2756-buy-two-chocolates) |

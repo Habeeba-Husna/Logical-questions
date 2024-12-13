@@ -14,7 +14,7 @@ var reverse = function(x) {
     console.log(reverse)
     reversed = x < 0 ? -Number(reverse) : Number(reverse);
      console.log(reversed)
-     if (reverse < -(2 ** 31) || reverse > 2 ** 31 - 1) {
+     if (reversed < -(2 ** 31) || reversed > 2 ** 31 - 1) {
     return 0;
 }
 return reversed;

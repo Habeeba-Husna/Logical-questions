@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0136-single-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0151-reverse-words-in-a-string) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0217-contains-duplicate) |

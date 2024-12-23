@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0414-third-maximum-number) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
+| [1524-string-matching-in-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1524-string-matching-in-an-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1646-kth-missing-positive-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1646-kth-missing-positive-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0742-to-lower-case) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1274-number-of-days-between-two-dates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1274-number-of-days-between-two-dates) |
+| [1524-string-matching-in-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3567-convert-date-to-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3567-convert-date-to-binary) |
 ## Hash Table
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->

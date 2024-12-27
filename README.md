@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1786-count-the-number-of-consistent-strings) |

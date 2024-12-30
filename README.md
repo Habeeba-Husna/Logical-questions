@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2756-buy-two-chocolates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2756-buy-two-chocolates) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1274-number-of-days-between-two-dates) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2752-sum-multiples) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3567-convert-date-to-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3568-find-the-key-of-the-numbers) |
 ## Simulation

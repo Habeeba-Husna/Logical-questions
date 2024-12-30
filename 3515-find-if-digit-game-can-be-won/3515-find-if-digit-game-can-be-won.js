@@ -14,23 +14,18 @@ var canAliceWin = function(nums) {
     // }
     //     return true
     
-    let a=[]
-    let b=[]
-    for(let c of nums){
-        if(c>9){
-            a.push(c)
-           
+    let arr1=[]
+    let arr2=[]
+    for(let i of nums){
+        if(i>9){
+            arr1.push(i)     
         }else{
-            b.push(c)
-            
+            arr2.push(i)
         }
-
     }
-    let d=a.reduce((acc,curr)=>acc+curr,0)
-    console.log(d)
-    let e=b.reduce((acc,curr)=>acc+curr,0)
-    // if(a<b) return true
-    if(d===e){
+    let sum1=arr1.reduce((acc,curr)=>acc+curr,0)
+    let sum2=arr2.reduce((acc,curr)=>acc+curr,0)
+    if(sum1===sum2){
         return false
     }else
     return true

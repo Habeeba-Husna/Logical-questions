@@ -6,6 +6,5 @@
 var rotateString = function(s, goal) {
      if(s.length !== goal.length) return false;
     let str = s.concat(s);
-    console.log(str)
     return str.includes(goal);
 };

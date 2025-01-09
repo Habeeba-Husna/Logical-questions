@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
@@ -211,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

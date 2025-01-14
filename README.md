@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1274-number-of-days-between-two-dates) |
 | [1524-string-matching-in-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1812-reformat-phone-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1812-reformat-phone-number) |
 | [3567-convert-date-to-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3567-convert-date-to-binary) |
 ## Hash Table
 |  |

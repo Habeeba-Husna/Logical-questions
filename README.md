@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0520-detect-capital) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
 | [1260-day-of-the-year](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1274-number-of-days-between-two-dates) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window

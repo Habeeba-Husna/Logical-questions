@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0434-number-of-segments-in-a-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0496-next-greater-element-i) |
 | [1044-find-common-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0316-remove-duplicate-letters) |
+| [0409-longest-palindrome](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0409-longest-palindrome) |
 | [2756-buy-two-chocolates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |

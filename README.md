@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0496-next-greater-element-i) |
 | [0841-shortest-distance-to-a-character](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-lemonade-change](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
 | [1524-string-matching-in-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1524-string-matching-in-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0409-longest-palindrome) |
+| [0890-lemonade-change](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0890-lemonade-change) |
 | [2756-buy-two-chocolates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |

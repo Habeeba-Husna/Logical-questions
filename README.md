@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Counting
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Sliding Window
 |  |

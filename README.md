@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2585-delete-greatest-value-in-each-row) |

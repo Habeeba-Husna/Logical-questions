@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2585-delete-greatest-value-in-each-row) |

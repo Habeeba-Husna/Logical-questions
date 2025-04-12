@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0049-group-anagrams) |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

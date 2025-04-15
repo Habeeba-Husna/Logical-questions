@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-reformat-phone-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1812-reformat-phone-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2235-capitalize-the-title](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2235-capitalize-the-title) |
 | [3567-convert-date-to-binary](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3567-convert-date-to-binary) |
 ## Hash Table
 |  |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0415-add-strings) |
 | [1260-day-of-the-year](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1274-number-of-days-between-two-dates) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2608-count-the-digits-that-divide-a-number) |

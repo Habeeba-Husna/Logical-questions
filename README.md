@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0645-set-mismatch) |
 | [0841-shortest-distance-to-a-character](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1044-find-common-characters) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Habeeba-Husna/Logical-questions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0645-set-mismatch) |
 | [1044-find-common-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0645-set-mismatch) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2042-maximum-product-difference-between-two-pairs) |

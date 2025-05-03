@@ -5,7 +5,6 @@
  */
 var uncommonFromSentences = function(s1, s2) {
     const words=(s1+" "+s2).split(' ')
-    console.log(words)
     let unCommon={};
     for(let word of words){
         unCommon[word]=(unCommon[word]||0)+1;

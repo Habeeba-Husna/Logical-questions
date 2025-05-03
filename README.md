@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0841-shortest-distance-to-a-character) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1044-find-common-characters) |
 | [1260-day-of-the-year](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0645-set-mismatch) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Habeeba-Husna/Logical-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0841-shortest-distance-to-a-character) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## String
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Counting
 |  |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->

@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0841-shortest-distance-to-a-character) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0841-shortest-distance-to-a-character) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0561-array-partition) |
+| [0680-valid-palindrome-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0890-lemonade-change) |
 | [2756-buy-two-chocolates](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2756-buy-two-chocolates) |
 ## Math

@@ -317,4 +317,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Habeeba-Husna/Logical-questions/tree/master/2442-number-of-arithmetic-triplets) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

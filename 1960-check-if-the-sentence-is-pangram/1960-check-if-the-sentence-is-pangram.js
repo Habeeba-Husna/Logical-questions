@@ -4,6 +4,5 @@
  */
 var checkIfPangram = function(sentence) {
     let s=new Set(sentence)
-    console.log(s)
     return s.size===26
 };

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0414-third-maximum-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0680-valid-palindrome-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0389-find-the-difference) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Habeeba-Husna/Logical-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
